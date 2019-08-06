@@ -17,7 +17,7 @@ Press r to reset the maze (only works if you have yet to solve the maze)
 
 Can change the sizes of the maze by changing the height and width (and scale when necessary) under class MazeItWorld
 
-![25x25 maze](Screenshots/MazePicture.jpg)
+![25x25 maze](MazePicture.jpg)
 
 *Example 25x25 Maze*
 
