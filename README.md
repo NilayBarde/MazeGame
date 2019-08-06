@@ -18,7 +18,7 @@ Press r to reset the maze (only works if you have yet to solve the maze)
 Can change the sizes of the maze by changing the height and width (and scale when necessary) under class MazeItWorld
 
 <div class="images">
-    <img width="329" height="693" hspace="40" src="MazePicture.jpg">
+    <img width="329" height="693" hspace="40" src="MazePicture.PNG">
   </div>
 
 *Example 25x25 Maze*
