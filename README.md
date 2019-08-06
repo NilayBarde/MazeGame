@@ -28,6 +28,6 @@ Can change the sizes of the maze by changing the height and width (and scale whe
 
 1. Download Eclipse: https://www.eclipse.org/ide/
 2. Pull this repository and set EclipseWorkspace as the workspace, or import Mazes into the workspace
-3. Import the two external .jar files in [`EclipseJars`](/EclipseJars) into the build path
+3. Import the two external .jar files called tester and javalib (in the repository) into the build path
 4. In the run configurations, set the main class as tester.Main and the program arguments as ExamplesMaze
 5. Run the program
