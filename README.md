@@ -18,8 +18,9 @@ Press r to reset the maze (only works if you have yet to solve the maze)
 Can change the sizes of the maze by changing the height and width (and scale when necessary) under class MazeItWorld
 
 <div class="images">
-    <img hspace="40" src="MazePicture.PNG">
+    <img width="500" height="500" hspace="40" src="MazePicture.PNG">
   </div>
+
 
 *Example 25x25 Maze*
 
@@ -27,6 +28,6 @@ Can change the sizes of the maze by changing the height and width (and scale whe
 
 1. Download Eclipse: https://www.eclipse.org/ide/
 2. Pull this repository and set EclipseWorkspace as the workspace, or import Mazes into the workspace
-3. Import the two external .jar files in EclipseJars into the build path
+3. Import the two external .jar files in [`EclipseJars`](/EclipseJars) into the build path
 4. In the run configurations, set the main class as tester.Main and the program arguments as ExamplesMaze
 5. Run the program
