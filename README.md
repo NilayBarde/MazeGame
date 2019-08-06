@@ -11,18 +11,29 @@ Press b to solve the maze using breadth first search
 
 Press d to solve the maze using depth first search
 
-Press v to toggle in seeing the visited vertices
+Press v to toggle visited vertices being seen
 
 Press r to reset the maze (only works if you have yet to solve the maze)
 
 Can change the sizes of the maze by changing the height and width (and scale when necessary) under class MazeItWorld
 
-<div class="images">
+<div class="MazeImage">
     <img width="500" height="500" hspace="40" src="MazePicture.PNG">
   </div>
 
-
 *Example 25x25 Maze*
+
+<div class="MazeBreadthImage">
+    <img width="500" height="500" hspace="40" src="BreadthMaze.PNG">
+  </div>
+
+*Example 25x25 Maze solved using Breadth First Search*
+
+<div class="MazeDepthImage">
+    <img width="500" height="500" hspace="40" src="DepthMaze.PNG">
+  </div>
+
+*Example 25x25 Maze solved using Depth First Search*
 
 ## How to Run the Game
 
